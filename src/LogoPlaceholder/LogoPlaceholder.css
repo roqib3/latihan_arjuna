@@ -1,0 +1,50 @@
+.logo-placeholder,
+.logo-placeholder * {
+  box-sizing: border-box;
+}
+.logo-placeholder {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  overflow: hidden;
+}
+.logo-placeholder .frame-8 {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.logo-placeholder .group-7 {
+  flex-shrink: 0;
+  width: 18.05px;
+  height: 18px;
+  position: relative;
+  overflow: visible;
+}
+.logo-placeholder .eliji-trash-care {
+  margin: 0 0 0 -4px;
+  color: var(--primary-2, #235d3a);
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+}
+.eliji-trash-care-span {
+  color: var(--primary-2, #235d3a);
+  font-family: "Nunito-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.eliji-trash-care-span2 {
+  color: var(--primary-2, #235d3a);
+  font-family: "Nunito-Light", sans-serif;
+  font-size: 20px;
+  font-weight: 300;
+}

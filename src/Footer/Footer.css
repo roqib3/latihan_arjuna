@@ -1,0 +1,205 @@
+.footer,
+.footer * {
+  box-sizing: border-box;
+}
+.footer {
+  background: var(--primary-2, #235d3a);
+  padding: 24px 116px 24px 116px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+}
+.footer .frame-4471 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.footer .frame-4467 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.footer .frame-4470 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.footer .frame-4469 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.footer .frame-4466 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.footer .kontak-kami {
+  color: #ffffff;
+  text-align: left;
+  font-family: var(
+    --heading-5-semibold-font-family,
+    "Nunito-SemiBold",
+    sans-serif
+  );
+  font-size: var(--heading-5-semibold-font-size, 26px);
+  line-height: var(--heading-5-semibold-line-height, 150%);
+  letter-spacing: var(--heading-5-semibold-letter-spacing, 0.005em);
+  font-weight: var(--heading-5-semibold-font-weight, 600);
+  position: relative;
+}
+.footer .frame-4465 {
+  display: flex;
+  flex-direction: column;
+  gap: 7px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.footer .frame-274 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.footer .frame-4464 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.footer .place-marker {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+}
+.footer
+  .desa-mendalo-indah-kecamatan-jambi-luar-kota-kabupaten-muaro-jambi-provinsi-jambi {
+  color: var(--primary-1, #ffffff);
+  text-align: left;
+  font-family: var(--body-1-regular-font-family, "Nunito-Regular", sans-serif);
+  font-size: var(--body-1-regular-font-size, 16px);
+  line-height: var(--body-1-regular-line-height, 140%);
+  font-weight: var(--body-1-regular-font-weight, 400);
+  position: relative;
+}
+.footer .frame-275 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.footer .frame-44642 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.footer .phone {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+}
+.footer ._081234567890 {
+  color: var(--primary-1, #ffffff);
+  text-align: left;
+  font-family: var(--body-1-regular-font-family, "Nunito-Regular", sans-serif);
+  font-size: var(--body-1-regular-font-size, 16px);
+  line-height: var(--body-1-regular-line-height, 140%);
+  font-weight: var(--body-1-regular-font-weight, 400);
+  position: relative;
+}
+.footer .frame-276 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.footer .envelope {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  object-fit: cover;
+}
+.footer .relijitrashcare-gmail-com {
+  color: var(--primary-1, #ffffff);
+  text-align: left;
+  font-family: var(--body-1-regular-font-family, "Nunito-Regular", sans-serif);
+  font-size: var(--body-1-regular-font-size, 16px);
+  line-height: var(--body-1-regular-line-height, 140%);
+  font-weight: var(--body-1-regular-font-weight, 400);
+  position: relative;
+}
+.footer .frame-4468 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.footer .frame-44692 {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  height: auto;
+  position: relative;
+  overflow: visible;
+}
+.footer .copyright-2024-reliji {
+  color: var(--primary-1, #ffffff);
+  text-align: left;
+  font-family: var(--body-2-regular-font-family, "Nunito-Regular", sans-serif);
+  font-size: var(--body-2-regular-font-size, 14px);
+  line-height: var(--body-2-regular-line-height, 140%);
+  font-weight: var(--body-2-regular-font-weight, 400);
+  position: relative;
+}

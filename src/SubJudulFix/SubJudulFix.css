@@ -1,0 +1,61 @@
+.sub-judul-fix,
+.sub-judul-fix * {
+  box-sizing: border-box;
+}
+.sub-judul-fix {
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+}
+.sub-judul-fix .frame-4476 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.sub-judul-fix .rectangle-308 {
+  background: var(--primary-2, #235d3a);
+  border-radius: 50px;
+  flex-shrink: 0;
+  width: 9px;
+  height: 39px;
+  position: relative;
+}
+.sub-judul-fix .sub-sub-judul {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.sub-judul-fix .sub-judul {
+  color: var(--pske-blsck-ini-ges, #1f1f1f);
+  text-align: left;
+  font-family: var(
+    --heading-5-semibold-font-family,
+    "Nunito-SemiBold",
+    sans-serif
+  );
+  font-size: var(--heading-5-semibold-font-size, 26px);
+  line-height: var(--heading-5-semibold-line-height, 150%);
+  letter-spacing: var(--heading-5-semibold-letter-spacing, 0.005em);
+  font-weight: var(--heading-5-semibold-font-weight, 600);
+  position: relative;
+}
+.sub-judul-fix .line-18 {
+  border-style: solid;
+  border-color: var(--pske-blsck-ini-ges, #1f1f1f);
+  border-width: 0.5px 0 0 0;
+  flex-shrink: 0;
+  width: 1200px;
+  height: 0px;
+  position: relative;
+}

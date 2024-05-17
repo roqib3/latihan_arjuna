@@ -1,0 +1,96 @@
+.container-berita,
+.container-berita * {
+  box-sizing: border-box;
+}
+.container-berita {
+  background: #ffffff;
+  border-radius: 10px;
+  padding: 24px;
+  display: flex;
+  flex-direction: row;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  box-shadow: var(
+    --drop-shadow-2-box-shadow,
+    0px 0px 10px 2px rgba(0, 0, 0, 0.25)
+  );
+}
+.container-berita .frame-4462 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex: 1;
+  position: relative;
+}
+.container-berita .frame-4460 {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.container-berita .header {
+  color: var(--pske-blsck-ini-ges, #1f1f1f);
+  text-align: left;
+  font-family: var(
+    --heading-5-semibold-font-family,
+    "Nunito-SemiBold",
+    sans-serif
+  );
+  font-size: var(--heading-5-semibold-font-size, 26px);
+  line-height: var(--heading-5-semibold-line-height, 150%);
+  letter-spacing: var(--heading-5-semibold-letter-spacing, 0.005em);
+  font-weight: var(--heading-5-semibold-font-weight, 600);
+  position: relative;
+  align-self: stretch;
+}
+.container-berita
+  .permasalahan-sampah-telah-menjadi-sebuah-ancaman-bagi-bangsa-indonesia-tumpukan-sampah-kian-menggunung-di-berbagai-tempat-mencemari-lingkungan-dan-membahayakan-kesehatan-masyarakat-tak-hanya-itu-sampah-juga-menimbulkan-dampak-sosial-dan-ekonomi-yang-tak-kalah-serius {
+  color: var(--pske-blsck-ini-ges, #1f1f1f);
+  text-align: left;
+  font-family: var(--body-1-regular-font-family, "Nunito-Regular", sans-serif);
+  font-size: var(--body-1-regular-font-size, 16px);
+  line-height: var(--body-1-regular-line-height, 140%);
+  font-weight: var(--body-1-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.container-berita .frame-4461 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.container-berita .button-2-instance {
+  flex-shrink: 0 !important;
+}
+.container-berita .frame-4463 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.container-berita
+  .ramadhan-momentum-untuk-menyadari-bahaya-sampah-1710922717-1 {
+  border-radius: 5px;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 350px;
+  position: relative;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.25);
+  object-fit: cover;
+}

@@ -1,0 +1,27 @@
+.button-2-property-1-default,
+.button-2-property-1-default * {
+  box-sizing: border-box;
+}
+.button-2-property-1-default {
+  background: var(--primary-2, #235d3a);
+  border-radius: 10px;
+  padding: 10px 16px 10px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+}
+.button-2-property-1-default .button {
+  color: var(--primary-1, #ffffff);
+  text-align: center;
+  font-family: var(--body-2-bold-font-family, "Nunito-Bold", sans-serif);
+  font-size: var(--body-2-bold-font-size, 14px);
+  line-height: var(--body-2-bold-line-height, 140%);
+  font-weight: var(--body-2-bold-font-weight, 700);
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}

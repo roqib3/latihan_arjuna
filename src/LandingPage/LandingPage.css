@@ -1,0 +1,815 @@
+.landing-page,
+.landing-page * {
+  box-sizing: border-box;
+}
+.landing-page {
+  background: var(--primary-1, #ffffff);
+  height: 2735px;
+  position: relative;
+  overflow: hidden;
+}
+.landing-page .recycling-bins-in-the-park-contribute-to-aiding-the-earth {
+  width: 1440px;
+  height: 720px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.landing-page .rectangle-291 {
+  background: linear-gradient(
+    71.02deg,
+    rgba(35, 93, 58, 1) 0%,
+    rgba(73, 195, 122, 0) 100%
+  );
+  width: 1440px;
+  height: 720px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.landing-page .frame-4455 {
+  width: 791px;
+  height: 365px;
+  position: absolute;
+  left: 120px;
+  top: 193px;
+}
+.landing-page .logo {
+  position: absolute;
+  inset: 0;
+}
+.landing-page .eliji-trash-care {
+  color: var(--primary-1, #0d1e0a);
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 51.5423583984375px;
+  font-weight: 400;
+  position: absolute;
+  left: 39px;
+  top: 0px;
+}
+.eliji-trash-care-span {
+  color: var(--primary-1, #ffffff);
+  font-family: "Nunito-Bold", sans-serif;
+  font-size: 51.5423583984375px;
+  font-weight: 700;
+}
+.eliji-trash-care-span2 {
+  color: var(--primary-1, #ffffff);
+  font-family: "Nunito-Light", sans-serif;
+  font-size: 51.5423583984375px;
+  font-weight: 300;
+}
+.landing-page .group-7 {
+  width: 51.14px;
+  height: 51px;
+  position: absolute;
+  left: 0px;
+  top: 10.93px;
+  overflow: visible;
+}
+.landing-page
+  .reliji-trash-care-adalah-website-pengelolaan-sampah-yang-menjadi-solusi-bagi-pengelolaan-sampah-di-lingkungan-desa-mendalo-indah-jambi-yang-dikelola-oleh-jasa-pengangkut-sampah-reliji-layanan-kami {
+  color: var(--primary-1, #ffffff);
+  text-align: left;
+  font-family: var(--body-1-regular-font-family, "Nunito-Regular", sans-serif);
+  font-size: var(--body-1-regular-font-size, 16px);
+  line-height: var(--body-1-regular-line-height, 140%);
+  font-weight: var(--body-1-regular-font-weight, 400);
+  position: absolute;
+  left: 0px;
+  top: 107px;
+  width: 588px;
+  height: 88px;
+}
+.landing-page .frame-4364 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: var(--primary-1, #ffffff);
+  border-width: 2px;
+  padding: 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 56px;
+  position: absolute;
+  left: 0px;
+  top: 232px;
+}
+.landing-page .chat {
+  flex-shrink: 0;
+  width: 28px;
+  height: 28px;
+  position: relative;
+  overflow: hidden;
+}
+.landing-page .iconly-light-chat {
+  height: auto;
+  position: absolute;
+  left: 2.33px;
+  top: 2.33px;
+  overflow: visible;
+}
+.landing-page .jadwal-sampah {
+  color: var(--primary-1, #ffffff);
+  text-align: left;
+  font-family: var(
+    --body-1-semibold-font-family,
+    "Nunito-SemiBold",
+    sans-serif
+  );
+  font-size: var(--body-1-semibold-font-size, 16px);
+  line-height: var(--body-1-semibold-line-height, 140%);
+  font-weight: var(--body-1-semibold-font-weight, 600);
+  position: relative;
+}
+.landing-page .frame-4365 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: var(--primary-1, #ffffff);
+  border-width: 2px;
+  padding: 16px 16px 16px 20px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 174px;
+  height: 56px;
+  position: absolute;
+  left: 209px;
+  top: 232px;
+}
+.landing-page .icon-wallet {
+  flex-shrink: 0;
+  width: 26.34px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .tagihan-iuran {
+  color: var(--primary-1, #ffffff);
+  text-align: left;
+  font-family: var(
+    --body-1-semibold-font-family,
+    "Nunito-SemiBold",
+    sans-serif
+  );
+  font-size: var(--body-1-semibold-font-size, 16px);
+  line-height: var(--body-1-semibold-line-height, 140%);
+  font-weight: var(--body-1-semibold-font-weight, 600);
+  position: relative;
+}
+.landing-page .frame-4366 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: var(--primary-1, #ffffff);
+  border-width: 2px;
+  padding: 16px 24px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 182px;
+  height: 56px;
+  position: absolute;
+  left: 405px;
+  top: 232px;
+}
+.landing-page .calendar {
+  flex-shrink: 0;
+  width: 30px;
+  height: 30px;
+  position: relative;
+  overflow: hidden;
+}
+.landing-page .iconly-light-calendar {
+  height: auto;
+  position: absolute;
+  left: 3.75px;
+  top: 2.5px;
+  overflow: visible;
+}
+.landing-page .chat-pengelola {
+  color: var(--primary-1, #ffffff);
+  text-align: left;
+  font-family: var(
+    --body-1-semibold-font-family,
+    "Nunito-SemiBold",
+    sans-serif
+  );
+  font-size: var(--body-1-semibold-font-size, 16px);
+  line-height: var(--body-1-semibold-line-height, 140%);
+  font-weight: var(--body-1-semibold-font-weight, 600);
+  position: relative;
+}
+.landing-page .frame-4454 {
+  border-radius: 15px;
+  border-style: solid;
+  border-color: var(--primary-1, #ffffff);
+  border-width: 2px;
+  padding: 16px 24px 16px 16px;
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: flex-start;
+  width: 182px;
+  height: 56px;
+  position: absolute;
+  left: 609px;
+  top: 232px;
+}
+.landing-page .deteksi {
+  flex-shrink: 0;
+  width: 32px;
+  height: 33px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .button-3-instance {
+  background: var(--primary-1, #ffffff) !important;
+  width: 120px !important;
+  position: absolute !important;
+  left: 0px !important;
+  top: 325px !important;
+}
+.landing-page .container-berita-instance {
+  width: 1200px !important;
+  position: absolute !important;
+  left: 120px !important;
+  top: 843px !important;
+}
+.landing-page .group-1000002078 {
+  position: absolute;
+  inset: 0;
+}
+.landing-page .rectangle-76 {
+  background: var(--primary-1, #ffffff);
+  border-radius: 15px;
+  width: 384px;
+  height: 491px;
+  position: absolute;
+  left: 120px;
+  top: 1283px;
+  box-shadow: var(
+    --drop-shadow-2-box-shadow,
+    0px 0px 10px 2px rgba(0, 0, 0, 0.25)
+  );
+}
+.landing-page .blog-post-card {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 356px;
+  position: absolute;
+  left: 134px;
+  top: 1299px;
+}
+.landing-page .content {
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.landing-page .sampah-di-tpa-talang-gulo-kota-jambi-5-1 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 356px;
+  height: 237.45px;
+  position: relative;
+  transform-origin: 0 0;
+  transform: rotate(0.089deg) scale(1, 1);
+  object-fit: cover;
+}
+.landing-page .heading-and-text {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 100px;
+  position: relative;
+}
+.landing-page .author {
+  color: var(--pske-blsck-ini-ges, #1f1f1f);
+  text-align: left;
+  font-family: var(--body-1-bold-font-family, "Nunito-Bold", sans-serif);
+  font-size: var(--body-1-bold-font-size, 16px);
+  line-height: var(--body-1-bold-line-height, 140%);
+  font-weight: var(--body-1-bold-font-weight, 700);
+  position: relative;
+  align-self: stretch;
+  height: 34px;
+}
+.landing-page .heading-and-icon {
+  display: flex;
+  flex-direction: row;
+  gap: 16px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 60px;
+  position: relative;
+}
+.landing-page .heading {
+  color: var(--pure-black, #000000);
+  text-align: left;
+  font-family: var(--heading-8-bold-font-family, "Nunito-Bold", sans-serif);
+  font-size: var(--heading-8-bold-font-size, 18px);
+  line-height: var(--heading-8-bold-line-height, 150%);
+  letter-spacing: var(--heading-8-bold-letter-spacing, 0.005em);
+  font-weight: var(--heading-8-bold-font-weight, 700);
+  position: relative;
+  flex: 1;
+}
+.landing-page .icon-wrap {
+  padding: 4px 0px 0px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.landing-page .arrow-up-right {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .supporting-text {
+  color: var(--pske-blsck-ini-ges, #1f1f1f);
+  text-align: left;
+  font-family: var(--body-2-regular-font-family, "Nunito-Regular", sans-serif);
+  font-size: var(--body-2-regular-font-size, 14px);
+  line-height: var(--body-2-regular-line-height, 140%);
+  font-weight: var(--body-2-regular-font-weight, 400);
+  position: relative;
+  align-self: stretch;
+}
+.landing-page .categories {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 356px;
+  position: absolute;
+  left: 125px;
+  top: 1726px;
+}
+.landing-page .badge {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  mix-blend-mode: multiply;
+}
+.landing-page .badge-base {
+  background: var(--primary-1, #ffffff);
+  border-radius: 16px;
+  padding: 2px 10px 2px 10px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.landing-page .text {
+  color: var(--pske-blsck-ini-ges, #1f1f1f);
+  text-align: center;
+  font-family: var(
+    --body-2-semibold-font-family,
+    "Nunito-SemiBold",
+    sans-serif
+  );
+  font-size: var(--body-2-semibold-font-size, 14px);
+  line-height: var(--body-2-semibold-line-height, 140%);
+  font-weight: var(--body-2-semibold-font-weight, 600);
+  position: relative;
+}
+.landing-page .group-1000002079 {
+  position: absolute;
+  inset: 0;
+}
+.landing-page .rectangle-762 {
+  background: var(--primary-1, #ffffff);
+  border-radius: 15px;
+  width: 384px;
+  height: 491px;
+  position: absolute;
+  left: 528px;
+  top: 1283px;
+  box-shadow: var(
+    --drop-shadow-2-box-shadow,
+    0px 0px 10px 2px rgba(0, 0, 0, 0.25)
+  );
+}
+.landing-page .blog-post-card2 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 356px;
+  position: absolute;
+  left: 542px;
+  top: 1299px;
+}
+.landing-page .img-20240308-150338-1-1 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 356px;
+  height: 235px;
+  position: relative;
+  object-fit: cover;
+}
+.landing-page .heading2 {
+  color: var(--pure-black, #000000);
+  text-align: left;
+  font-family: var(--ag-font-family, "Nunito-Bold", sans-serif);
+  font-size: var(--ag-font-size, 18px);
+  line-height: var(--ag-line-height, 150%);
+  letter-spacing: var(--ag-letter-spacing, 0.005em);
+  font-weight: var(--ag-font-weight, 700);
+  position: relative;
+  flex: 1;
+}
+.landing-page .arrow-up-right2 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .categories2 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 356px;
+  position: absolute;
+  left: 533px;
+  top: 1726px;
+}
+.landing-page .group-1000002080 {
+  position: absolute;
+  inset: 0;
+}
+.landing-page .rectangle-763 {
+  background: var(--primary-1, #ffffff);
+  border-radius: 15px;
+  width: 384px;
+  height: 491px;
+  position: absolute;
+  left: 936px;
+  top: 1283px;
+  box-shadow: var(
+    --drop-shadow-2-box-shadow,
+    0px 0px 10px 2px rgba(0, 0, 0, 0.25)
+  );
+}
+.landing-page .blog-post-card3 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 356px;
+  position: absolute;
+  left: 950px;
+  top: 1299px;
+}
+.landing-page .lautan-sampah-berserakan-dipinggiran-jalan-kota-jambi-169-1 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 356px;
+  height: 239px;
+  position: relative;
+  object-fit: cover;
+}
+.landing-page .arrow-up-right3 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .categories3 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 356px;
+  position: absolute;
+  left: 941px;
+  top: 1726px;
+}
+.landing-page .group-1000002081 {
+  position: absolute;
+  inset: 0;
+}
+.landing-page .rectangle-764 {
+  background: var(--primary-1, #ffffff);
+  border-radius: 15px;
+  width: 384px;
+  height: 491px;
+  position: absolute;
+  left: 120px;
+  top: 1816px;
+  box-shadow: var(
+    --drop-shadow-2-box-shadow,
+    0px 0px 10px 2px rgba(0, 0, 0, 0.25)
+  );
+}
+.landing-page .blog-post-card4 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 356px;
+  position: absolute;
+  left: 134px;
+  top: 1832px;
+}
+.landing-page .img-20240104-wa-0123-1 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 356px;
+  height: 239px;
+  position: relative;
+  object-fit: cover;
+}
+.landing-page .arrow-up-right4 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .categories4 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 356px;
+  position: absolute;
+  left: 127px;
+  top: 2259px;
+}
+.landing-page .group-1000002082 {
+  position: absolute;
+  inset: 0;
+}
+.landing-page .rectangle-765 {
+  background: var(--primary-1, #ffffff);
+  border-radius: 15px;
+  width: 384px;
+  height: 491px;
+  position: absolute;
+  left: 528px;
+  top: 1816px;
+  box-shadow: var(
+    --drop-shadow-2-box-shadow,
+    0px 0px 10px 2px rgba(0, 0, 0, 0.25)
+  );
+}
+.landing-page .blog-post-card5 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 356px;
+  position: absolute;
+  left: 542px;
+  top: 1832px;
+}
+.landing-page ._01-hfbavvv-0-kxve-2-xb-3-d-9-jjv-6-w-8-1 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 354px;
+  height: 240px;
+  position: relative;
+  object-fit: cover;
+}
+.landing-page .arrow-up-right5 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .categories5 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 356px;
+  position: absolute;
+  left: 533px;
+  top: 2259px;
+}
+.landing-page .group-1000002083 {
+  position: absolute;
+  inset: 0;
+}
+.landing-page .rectangle-766 {
+  background: var(--primary-1, #ffffff);
+  border-radius: 15px;
+  width: 384px;
+  height: 491px;
+  position: absolute;
+  left: 936px;
+  top: 1816px;
+  box-shadow: var(
+    --drop-shadow-2-box-shadow,
+    0px 0px 10px 2px rgba(0, 0, 0, 0.25)
+  );
+}
+.landing-page .blog-post-card6 {
+  display: flex;
+  flex-direction: column;
+  gap: 32px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 356px;
+  position: absolute;
+  left: 950px;
+  top: 1832px;
+}
+.landing-page ._30082019-sampah-648316104-d-498-a-39-ae-413-ce-2-1 {
+  border-radius: 10px;
+  flex-shrink: 0;
+  width: 356px;
+  height: 238px;
+  position: relative;
+  object-fit: cover;
+}
+.landing-page .arrow-up-right6 {
+  flex-shrink: 0;
+  width: 24px;
+  height: 24px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .categories6 {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  width: 356px;
+  position: absolute;
+  left: 941px;
+  top: 2259px;
+}
+.landing-page .pagination {
+  border-style: solid;
+  border-color: var(--pure-black, #000000);
+  border-width: 0.5px 0px 0px 0px;
+  padding: 20px 0px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  width: 1200px;
+  height: 61px;
+  position: absolute;
+  left: 120px;
+  top: 2349px;
+}
+.landing-page .button {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.landing-page .button-base {
+  display: flex;
+  flex-direction: row;
+  gap: 8px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  position: relative;
+}
+.landing-page .arrow-left {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .text2 {
+  color: var(--pure-black, #000000);
+  text-align: left;
+  font-family: var(--text-sm-medium-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--text-sm-medium-font-size, 14px);
+  line-height: var(--text-sm-medium-line-height, 20px);
+  font-weight: var(--text-sm-medium-font-weight, 500);
+  position: relative;
+}
+.landing-page .pagination-numbers {
+  display: flex;
+  flex-direction: row;
+  gap: 2px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.landing-page .pagination-number-base {
+  background: var(--primary-1, #ffffff);
+  border-radius: 8px;
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+}
+.landing-page .content2 {
+  border-radius: 8px;
+  padding: 12px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  width: 40px;
+  height: 40px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
+.landing-page .number {
+  color: var(--pure-black, #000000);
+  text-align: center;
+  font-family: var(--text-sm-medium-font-family, "Inter-Medium", sans-serif);
+  font-size: var(--text-sm-medium-font-size, 14px);
+  line-height: var(--text-sm-medium-line-height, 20px);
+  font-weight: var(--text-sm-medium-font-weight, 500);
+  position: relative;
+}
+.landing-page .pagination-number-base2 {
+  border-radius: 8px;
+  flex-shrink: 0;
+  width: 40px;
+  height: 40px;
+  position: relative;
+  overflow: hidden;
+}
+.landing-page .arrow-right {
+  flex-shrink: 0;
+  width: 20px;
+  height: 20px;
+  position: relative;
+  overflow: visible;
+}
+.landing-page .footer-instance {
+  position: absolute !important;
+  left: calc(50% - 720px) !important;
+  top: 2470px !important;
+}
+.landing-page .sub-judul-fix-instance {
+  gap: 15px !important;
+  width: 1200px !important;
+  position: absolute !important;
+  left: 120px !important;
+  top: 780px !important;
+}
+.landing-page .navbar-guest-instance {
+  width: 1440px !important;
+  position: sticky !important;
+  left: calc(50% - 720px) !important;
+  top: 0px !important;
+}
