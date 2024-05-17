@@ -12,7 +12,7 @@ export const NavbarGuest = ({ className, ...props }) => {
         <ul class="menu">
             <li><a href="./index.html">Home</a></li>
             <li><a href="./news.html">News</a></li>
-            <li><a href="./support.html">Support</a></li>
+            <li><a href="./support.html">Support wohoo</a></li>
             <li><a href="./about us.html">About Us</a></li>
         </ul>
         <ul className="frame-11">
