@@ -17,7 +17,7 @@ export const NavbarGuest = ({ className, ...props }) => {
         </ul>
         <ul className="frame-11">
           <a href="masuk">Masuk</a>
-          <a class="daft" href="./">Daftar</a>
+          <a class="daft" href="daftar">Daftar</a>
         </ul>
       </div>
       
