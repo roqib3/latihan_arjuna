@@ -10,13 +10,13 @@ export const NavbarGuest = ({ className, ...props }) => {
       <div className="frame-24">
         <LogoPlaceholder className="logo-placeholder-instance"></LogoPlaceholder>
         <ul class="menu">
-            <li><a href="./index.html">Home</a></li>
+            <li><a href="/">Home</a></li>
             <li><a href="./news.html">News</a></li>
             <li><a href="./support.html">Support wohoo</a></li>
             <li><a href="./about us.html">About Us</a></li>
         </ul>
         <ul className="frame-11">
-          <a href="./">Masuk</a>
+          <a href="masuk">Masuk</a>
           <a class="daft" href="./">Daftar</a>
         </ul>
       </div>
