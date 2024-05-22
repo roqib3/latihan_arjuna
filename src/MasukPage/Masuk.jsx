@@ -55,7 +55,7 @@ const Masuk = () => {
                                 </div>
                                 <div className="text-sm flex items-center justify-between">
                                     <p>Remember me</p>
-                                    <a href="#" className="font-semibold text-green-700 hover:text-indigo-500">
+                                    <a href="/lupapassword" className="font-semibold text-green-700 hover:text-indigo-500">
                                         Forgot password?
                                     </a>
                                 </div>
